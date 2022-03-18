@@ -1,6 +1,6 @@
 # ReactNativeProject
 
-Added the screenshots of the react native project, in where we could see the splashscreen, the characters and the details of each of them, implementing the code seen in class with a search bar to see an specific character,  all these consuming a Rick and Morty App in where we get the characters according to an specific page of characters.
+Added the screenshots of the react native project, in where we could see the splashscreen, the characters and the details of each of them, implementing the code seen in class with a search bar to see an specific character,  all these consuming a Rick and Morty App in where we get the characters according to an specific page of characters, using an MVC architecture
 
 
 SplashScreen, SearchBar, Characters and CharactersDetails
